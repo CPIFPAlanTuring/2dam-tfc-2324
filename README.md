@@ -5,7 +5,7 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 ## Requisitos y criterios a seguir
 
-Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/IESCampanillas/proyectos-daw-2022/wiki).
+Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/CPIFPAlanTuring/2daw-tfc-2324/wiki).
 
 ## Índice a los proyectos de cada alumno
 
