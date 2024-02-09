@@ -1,11 +1,11 @@
-# Proyectos Final de Ciclo de 2º DAW
+# Proyectos Final de Ciclo de 2º DAM
 **curso 2023|24**
 
-En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Web del CPIFP Alan Turing** (proyectos de fin de ciclo), en la convocatoria del curso 2023|24.
+En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del CPIFP Alan Turing** (proyectos de fin de ciclo), en la convocatoria del curso 2023|24.
 
 ## Requisitos y criterios a seguir
 
-Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/CPIFPAlanTuring/2daw-tfc-2324/wiki).
+Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/CPIFPAlanTuring/2dam-tfc-2324/wiki).
 
 ## Índice a los proyectos de cada alumno
 
