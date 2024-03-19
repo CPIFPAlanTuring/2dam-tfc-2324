@@ -12,7 +12,7 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 `por determinar`
 
 ## 📝 Fechas a tener en cuenta
-* Anteproyecto: `por determinar`
+* Anteproyecto: 5 de abril de 2024
 * Revisión (checkpoint): `por determinar`
 * Entrega de proyecto: `por determinar`
 * Exposiciones: `por determinar`
