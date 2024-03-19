@@ -9,6 +9,15 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 
 ## Índice a los proyectos de cada alumno
 
+### 2º DAM Mañana
+* CarCare - Juan Manuel Gutiérrez Mellado
+* Globetrotting - Marina Ruiz Artacho
+* ActiveLife - Pablo García Muñoz, Antonio Luis García Guerrero
+* Nook's toolbox - Denisa-Ramona Belean, Jesús Herrera Sánchez
+* Home Slam - Marco Valente
+* SquadMe - Daniel Luque Gallardo, Borja Bravo Casermeiro
+* Chato - Adrián Perogil Fernández, Javier Martín Gallardo
+### 2º DAM Tarde
 `por determinar`
 
 ## 📝 Fechas a tener en cuenta
