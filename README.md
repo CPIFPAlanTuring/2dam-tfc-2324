@@ -6,6 +6,13 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 ## Requisitos y criterios a seguir
 
 Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/CPIFPAlanTuring/2dam-tfc-2324/wiki).
+## Profesores 
+### Turno de Mañana
+* [David Hormigo](https://github.com/DavidHormigoRamirez)
+* [Miguel Ángel Ronda](https://github.com/profemronda)
+* [Juan Antonio Garcia](https://github.com/juanarrow)
+* [Alberto Garcia](https://github.com/teacher-IT)
+### Turno de Tarde
 
 ## Índice a los proyectos de cada alumno
 
