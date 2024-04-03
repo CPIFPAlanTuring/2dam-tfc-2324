@@ -19,12 +19,12 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 ### 2º DAM Mañana
 * [CarCare](https://github.com/Juanma-Gutierrez/TFC-2DAM-CarCare) - Juan Manuel Gutiérrez Mellado
-* Globetrotting - Marina Ruiz Artacho
-* ActiveLife - Pablo García Muñoz, Antonio Luis García Guerrero
+* [Globetrotting](https://marruiart.notion.site/Anteproyecto-Trabajo-Fin-de-Ciclo-TFC-2-DAM-2024-0088e98bd60f46969bcb7453cd2120f7) - Marina Ruiz Artacho
+* [ActiveLife](https://github.com/PabloGM1204/TFG-ActiveLife) - Pablo García Muñoz, Antonio Luis García Guerrero
 * Nook's toolbox - Denisa-Ramona Belean, Jesús Herrera Sánchez
 * Home Slam - Marco Valente
 * SquadMe - Daniel Luque Gallardo, Borja Bravo Casermeiro
-* Chato - Adrián Perogil Fernández, Javier Martín Gallardo
+* [Chato](https://github.com/imchopi/TFG_Chato) - Adrián Perogil Fernández, Javier Martín Gallardo
 ### 2º DAM Tarde
 `por determinar`
 
