@@ -18,13 +18,17 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 ## Índice a los proyectos de cada alumno
 
 ### 2º DAM Mañana
-* [CarCare](https://github.com/Juanma-Gutierrez/TFC-2DAM-CarCare) - Juan Manuel Gutiérrez Mellado
-* [Globetrotting](https://marruiart.notion.site/Anteproyecto-Trabajo-Fin-de-Ciclo-TFC-2-DAM-2024-0088e98bd60f46969bcb7453cd2120f7) - Marina Ruiz Artacho
-* [ActiveLife](https://github.com/PabloGM1204/TFG-ActiveLife) - Pablo García Muñoz, Antonio Luis García Guerrero
-* Nook's toolbox - Denisa-Ramona Belean, Jesús Herrera Sánchez
-* Home Slam - Marco Valente
-* SquadMe - Daniel Luque Gallardo, Borja Bravo Casermeiro
-* [Chato](https://github.com/imchopi/TFG_Chato) - Adrián Perogil Fernández, Javier Martín Gallardo
+
+| Proyecto                                                                                                                         | Alumno(s)                                              |
+|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| [ActiveLife](https://github.com/PabloGM1204/TFG-ActiveLife)                                                                      | Antonio Luis García Guerrero  <br>  Pablo García Muñoz |
+| [CarCare](https://github.com/Juanma-Gutierrez/TFC-2DAM-CarCare)                                                                  | Juan Manuel Gutiérrez Mellado                          |
+| [Chato](https://github.com/imchopi/TFG_Chato)                                                                                    | Javier Martín Gallardo<br> Adrián Perogil Fernández    |
+| [Globetrotting](https://marruiart.notion.site/Anteproyecto-Trabajo-Fin-de-Ciclo-TFC-2-DAM-2024-0088e98bd60f46969bcb7453cd2120f7) | Marina Ruiz Artacho                                    |
+| Home Slam                                                                                                                        | Marco Valente                                          |
+| Nook's toolbox                                                                                                                   | Denisa-Ramona Belean<br> Jesús Herrera Sánchez         |
+| SquadMe                                                                                                                          | Borja Bravo Casermeiro<br>Daniel Luque Gallardo        |
+
 ### 2º DAM Tarde
 `por determinar`
 
