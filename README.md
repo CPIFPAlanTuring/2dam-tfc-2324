@@ -27,14 +27,14 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Globetrotting](https://marruiart.notion.site/Anteproyecto-Trabajo-Fin-de-Ciclo-TFC-2-DAM-2024-0088e98bd60f46969bcb7453cd2120f7) | Marina Ruiz Artacho                                    |
 | Home Slam                                                                                                                        | Marco Valente                                          |
 | Nook's toolbox                                                                                                                   | Denisa-Ramona Belean<br> Jesús Herrera Sánchez         |
-| [SquadMe](https://github.com/squadMe-Proyect/squadme)                                                                              | Borja Bravo Casermeiro<br>Daniel Luque Gallardo        |
+| [SquadMe](https://github.com/squadMe-Proyect/squadme)                                                                            | Borja Bravo Casermeiro<br>Daniel Luque Gallardo        |
 
 ### 2º DAM Tarde
 `por determinar`
 
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: 5 de abril de 2024
-* Revisión (checkpoint): `por determinar`
+* Revisión (checkpoint): 10 de mayo de 2024
 * Entrega de proyecto: `por determinar`
 * Exposiciones: `por determinar`
 
