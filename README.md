@@ -35,8 +35,8 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: 5 de abril de 2024
 * Revisión (checkpoint): 10 de mayo de 2024
-* Entrega de proyecto: `por determinar`
-* Exposiciones: `por determinar`
+* Entrega de proyecto: 14 de junio de 2024
+* Exposiciones: 17 y 18 de junio de 2024
 
 ## ⏰ Cuadrante horario de las exposiciones
 
