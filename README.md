@@ -40,12 +40,10 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 ## ⏰ Cuadrante horario de las exposiciones
 
-La fecha y hora de exposición del alumnado se comunicará a través de este canal. La duración de cada exposición será de **15 minutos** (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. El alumnado deberá llegar con tiempo suficiente a su presentación. Aquellos alumnos que, durante el período de exposiciones, aún no hayan finalizado su FCT, asistirán al Centro únicamente para exponer su proyecto, debiendo regresar posteriormente a sus prácticas en la empresa.
-
-### Defensas martes 18 de junio de 2024
+La fecha y hora de exposición del alumnado de 2 DAM en su turno de mañana será el **martes 18 de junio de 2024** según la tabla adjunta. La duración de cada exposición será de **15 minutos** (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. El alumnado deberá llegar con tiempo suficiente a su presentación. Aquellos alumnos que, durante el período de exposiciones, aún no hayan finalizado su FCT, asistirán al Centro únicamente para exponer su proyecto, debiendo regresar posteriormente a sus prácticas en la empresa.
 
 | Hora | Alumno(s)                                              |
-|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+|------|--------------------------------------------------------|
 | 8:30 | Javier Martín Gallardo<br> Adrián Perogil Fernández    |
 | 8:50 | Juan Manuel Gutiérrez Mellado                          |
 | 9:10 | Marco Valente                                          |
